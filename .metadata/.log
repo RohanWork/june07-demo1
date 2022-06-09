@@ -119,3 +119,18 @@ java.lang.InterruptedException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-06-09 13:56:55.174
 !MESSAGE executing callback sts4.classpath.LbyefLkE SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-06-09 14:31:02.444
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.LbyefLkE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-06-09 14:31:02.498
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.LbyefLkE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-06-09 14:31:02.510
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-06-09 14:31:02.511
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.LbyefLkE => OK
+
+!ENTRY org.eclipse.ui 2 2 2022-06-09 14:31:04.406
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
